@@ -3,3 +3,7 @@ __pycache__/
 .pytest_cache/
 *.pyc
 .dual-graph/
+credentials.json
+token.json
+*.imscc
+.DS_Store
