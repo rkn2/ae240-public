@@ -1,4 +1,10 @@
-# Memory Index
-
-- [Canvas Drive Upload](project_canvas_drive_upload.md) — imscc rebuilt; M05–M10 reviewed; Drive permissions blocker; Canvas import pending
-- [Obsidian Vault](reference_obsidian.md) — daily log location and task format for adding tasks
+- [ae240 module QA pass](project_module5_intro_python_lesson_review.md) — module-by-module lesson+homework+exam QA; Modules 05-14 all done
+- [Visual QA format by device](feedback_visual_qa_format.md) — default HTML+Safari on her computer; merged PDF only when she says she's on her phone
+- [Notebook QA checklist](feedback_notebook_qa_checklist.md) — QA before every commit: title, full cell-diff leak check (not just grep), em-dashes, HTML preview, in-class boilerplate
+- [Verify cited numbers](feedback_verify_cited_numbers.md) — when a SOLUTION cites a specific worked-example number in prose, run the code to check it, don't trust it on faith
+- [No em-dashes, ever](feedback_no_emdashes.md) — standing rule: no em-dashes or LLM-sounding words (e.g. "crucial") in course materials/chat; watch for escaped unicode in .ipynb JSON too
+- [nbconvert tooling](tooling_nbconvert.md) — render any .ipynb to HTML locally for review, no GitHub needed
+- [Remote file delivery](feedback_remote_file_delivery.md) — SendUserFile/open don't reach her laptop when SSHed into giraffes-Mac-mini; use scp instead
+- [screenshots-to-pdf skill](reference_screenshots_to_pdf_skill.md) — global skill (~/.claude/skills/) that merges notebooks/HTML/URLs/images into one PDF
+- [Canvas import workflow](project_canvas_import_workflow.md) — imscc approach, GitHub Colab URL format, Module 05 pilot done, script is ephemeral
+- [Drive link migration](project_drive_link_migration.md) — returning to Drive Colab links; scripts updated but drive_links.json not yet created, needs credentials.json + build_drive_map.py run
