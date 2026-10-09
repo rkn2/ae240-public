@@ -37,7 +37,7 @@ New structure:
 - Lesson 1 materials: linReg_notes (public) → Sept9 zoom (unpublished) → linReg_notes_SOLUTION (private) → linReg_inclass quiz
 - Lesson 2 materials: barChart_notes (public) → Sept11 zoom (unpublished) → barChart_notes_SOLUTION (private) → barCharts_inclass quiz
 - Homework: Linear Regression Homework quiz (description updated with GitHub link to student hw notebook) → linReg_homework_SOLUTION (private)
-- Note: homework student notebook link (`3_linReg_dataVis_homework_v26.ipynb`) is in the quiz description using `blob/v26` branch URL on private repo
+- Note (Oct 9, 2026): the Canvas export has no GitHub links any more; every notebook link goes to Drive. The `v26` branch was retired (archived as tag `v26-archive`); `main` is the only branch.
 
 ### Modules 07, 11, 14 (exam modules) — URL substitution only so far, NEED DRIVE LINKS
 - Current: practice exam + study guide → GitHub public ✓
